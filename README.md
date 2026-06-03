@@ -14,12 +14,18 @@ Recommendation Page
 Here the user will get poster images of all the recommended movies and series sorted based upon their IMDb Scores.  
 
 Clicking on any poster image, the user will be sent to the Movie Details page for the corresponding title.
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/c3c25981-7bb1-4165-ade1-895ac4eaac77" />
+<img width="1917" height="925" alt="image" src="https://github.com/user-attachments/assets/6079fb7c-bf60-45c5-978f-20aaedfb0379" />
+
 
 Movie Detail Page
 Here are the complete details of the user selected title like Genre, Movie Summary, Languages in which movie is available, IMDb scores, Directors, Writers and Actors and so on. User will also find a link at the end of the page for the NEtflix Page of the corresponding title.  
+<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/21c058c5-742b-47d2-979c-3602615c520f" />
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/b8a52e5b-b3fd-4cc0-a259-e8932352835e" />
 
 Netflix Page
 This page is not a part of my web-app but an example what the user will see as the Netflix Page if they choose to click on the Netflix Link for the title. You can login into your Netflix account and enjoy watching your selected movie or series from our recommendations. 
+<img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/69a10c62-4337-44a6-808a-7631bc3602b3" />
 
 How To Use
 To be able to use this web app locally in a development environment you will need the following:
@@ -29,7 +35,7 @@ You will need Git installed on your computer.
 Then From your terminal, you should do the following:
 
 # Clone this repository
-git clone https://github.com/garg-priya-creator/Netflix-Recommendation-System.git
+git clone https://github.com/MudyadapuVikas/Netflix-Style-Recommendation-System.git
 
 # Go into the repository
 cd netflix-recommendation-system
